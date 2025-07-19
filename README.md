@@ -35,7 +35,7 @@ It supports input from webcam, video files, and images, offering a modern, dark-
 ## 📸 Screenshots
 | Home Screen | Detection Example 1 | Detection Example 2 | Detection Example 3 |
 |-------------|---------------------|---------------------|---------------------|
-| ![Home](./images/home.png) | ![Detection1](./run1.png) | ![Detection2](./images/run2.png) | ![Detection3](./images/run3.png) |
+| ![Home](./images/home.png) | ![Detection1](./images/run1.png) | ![Detection2](./images/run2.png) | ![Detection3](./images/run3.png) |
 
 ---
 
